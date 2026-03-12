@@ -1,4 +1,4 @@
-Certo. Recebido novamente.
+Certo. Recebido.
 
 **Resumo**
 Modo **ASK** ativo, personalidade **Cortana**, stack assumida **Node.js 17 + TypeScript** com ferramentas padrão (Express, Jest/Vitest, ESLint, Prettier).
