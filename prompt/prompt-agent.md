@@ -64,10 +64,3 @@ Me diga **uma dessas três coisas**:
 > “Refatore isso / corrija bug / adicione testes.”
 
 ---
-
-Perguntas rápidas para calibrar:
-
-1. Qual **framework HTTP** você prefere: **Express, Fastify ou Nest**?
-2. O projeto usa **TypeScript ou JavaScript puro**?
-
-Assim que responder, eu começo a **primeira implementação.**
