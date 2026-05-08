@@ -1,0 +1,16 @@
+# 🚀 Gerador de QR Code com Node.js
+
+Este projeto foi desenvolvido como um Desafio de Projeto para a **Formação Node.js da DIO (Digital Innovation One)**. O objetivo principal é criar uma ferramenta de linha de comando (CLI) que recebe um link inserido pelo usuário e gera um arquivo de imagem com o respectivo QR Code correspondente.
+
+> 💡 **Nota de Aprendizado:** Este projeto foi desenvolvido aplicando conceitos práticos de Node.js, manipulação de pacotes via NPM, captura de dados via terminal e escrita de arquivos no sistema operacional.
+
+---
+
+## 🛠️ Tecnologias e Pacotes Utilizados
+
+* **[Node.js](https://nodejs.org/):** Ambiente de execução JavaScript no servidor.
+* **[Inquirer.js](https://www.npmjs.com/package/inquirer):** Biblioteca para criar prompts interativos e amigáveis no terminal.
+* **[qr-image](https://www.npmjs.com/package/qr-image):** Módulo para codificar links ou textos em imagens de QR Code de forma extremamente rápida.
+* **[Chalk](https://www.npmjs.com/package/chalk):** (Melhoria Adicionada) Para estilizar e colorir as saídas de texto no terminal.
+
+---
